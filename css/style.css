@@ -30,6 +30,12 @@ a,a:hover{
     color:white;
    
 }
+.navbar-nav .nav-item :hover.nav-link {
+    color: palevioletred;
+    }
+.navbar-nav .nav-item :hover.nav-link.active {
+    color: palevioletred;
+    }
 .navbar-brand img{
     padding: 12px 0px;
 }
