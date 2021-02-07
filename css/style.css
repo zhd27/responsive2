@@ -251,7 +251,8 @@ text-align: center;
     height: 30px;
     border: 2px solid white;
     line-height: 30px;
-       color: white; 
+    color: white;
+    
 }
 .icon_bottom ul li:nth-child(2){
     margin: 0px 10px;
