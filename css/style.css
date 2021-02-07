@@ -30,12 +30,6 @@ a,a:hover{
     color:white;
    
 }
-.navbar-nav .nav-item :hover.nav-link {
-    color: palevioletred;
-    }
-.navbar-nav .nav-item :hover.nav-link.active {
-    color: palevioletred;
-    }
 .navbar-brand img{
     padding: 12px 0px;
 }
@@ -257,8 +251,7 @@ text-align: center;
     height: 30px;
     border: 2px solid white;
     line-height: 30px;
-       color: white;
-    
+       color: white; 
 }
 .icon_bottom ul li:nth-child(2){
     margin: 0px 10px;
